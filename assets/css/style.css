@@ -231,10 +231,10 @@ footer {
     margin-bottom: 20px;
     display: block;
     clear: both;    
-    overflow: hidden;
+   
 }
 
-/* Anna recommended the overflow style on Slack 10 April */ 
+/* Anna recommended the overflow style on Slack 10 April  overflow: hidden; */ 
 
 .personal-info-item .key,
 .personal-info-item .value {
